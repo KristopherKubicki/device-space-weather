@@ -1,6 +1,8 @@
 # SmartThings Space Weather Device Type
 This is a simple Space Weather device type for SmartThings.  It polls data from NOAA's excellent <a href='http://www.swpc.noaa.gov/'>Space Weather Prediction Center</a> and formats the data into simple attributes. 
 
+<img src='https://cloud.githubusercontent.com/assets/478212/13172886/1e5f8308-d6c0-11e5-8021-d8d738011475.jpg'>
+
 In part, this device type serves as a proof of concept to push forward new capabilities and attributes through the SmartThings design process.
 
 In 2011, NOAA refined its early warning systems so that solar storm warnings would fit into three categories.  
